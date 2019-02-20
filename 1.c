@@ -6,15 +6,15 @@ int n;
 scanf("%d",&n);
 if(n>0)
 {
-printf("The no is positive");
+printf("The no is p");
 }
 else if(n<0)
 {
-printf("The no is negative");
+printf("The no is n");
 }
 else
 {
-printf("The no is equal to 0");
+printf(" equal to 0");
 }
 return 0;
 }
